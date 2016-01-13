@@ -1,0 +1,128 @@
+processor	: 0
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 1
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 2
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 3
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 4
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 5
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 6
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 7
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 8
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 9
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 10
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 11
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 12
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 13
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 14
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
+processor	: 15
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0xd07
+CPU revision	: 1
+
